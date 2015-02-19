@@ -1,0 +1,18 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-babel": "^4.0.0",
+    "gulp-cached": "^1.0.2",
+    "gulp-rename": "^1.2.0",
+    "gulp-watch": "^4.1.1"
+  }
+}
